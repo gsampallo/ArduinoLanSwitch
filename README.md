@@ -4,6 +4,9 @@ It's an example of how to build with and arduino nano and a ethernet module, a s
 
 ![alt text](http://www.gsampallo.com/blog/wp-content/uploads/2020/03/ArduinoLanSwitch1.jpg "Diagrama")
 
+The electronics:
+![alt text](http://www.gsampallo.com/blog/wp-content/uploads/2020/03/ArduinoLanSwitch2.jpg "Diagrama")
+
 ## Configuration
 
 Default IP address of the device is http://192.168.5.2 and will return a JSON string with the uptime and relays' status.
@@ -33,4 +36,4 @@ The JSON return has the following format:
 
 uptime is in seconds. s1 and s2 can assume ON or OFF values, depend on the status of each relays.
 
-You can read the article on my [blog](https://www.gsampallo.com/blog/?p=612) to more details.
+You can read the article on my [blog](https://www.gsampallo.com/blog/?p=612) to more details and the schematics.
