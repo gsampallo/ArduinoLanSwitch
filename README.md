@@ -2,7 +2,7 @@
 
 It's an example of how to build with and arduino nano and a ethernet module, a switch that can be controlled via lan.
 
-![alt text](https://raw.githubusercontent.com/gsampallo/ArduinoLanSwitch/master/image/ArduinoLanSwitch1.jpg?token=ACBRZYCHGLFIWM6GKOHTT2C6P2TYQ "Diagrama")
+![alt text](http://www.gsampallo.com/blog/wp-content/uploads/2020/03/ArduinoLanSwitch1.jpg "Diagrama")
 
 ## Configuration
 
