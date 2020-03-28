@@ -39,4 +39,5 @@ uptime is in seconds. s1 and s2 can assume ON or OFF values, depend on the statu
 You can read the article on my [blog](https://www.gsampallo.com/blog/?p=612) to more details and the schematics.
 
 Here you can find a video with the full tutorial:
+
 [![Video](https://img.youtube.com/vi/_4VGkqNcXNE/0.jpg)](https://www.youtube.com/watch?v=_4VGkqNcXNE)
